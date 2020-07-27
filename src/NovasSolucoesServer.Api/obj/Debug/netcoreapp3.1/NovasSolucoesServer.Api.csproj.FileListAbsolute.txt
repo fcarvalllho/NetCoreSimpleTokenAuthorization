@@ -1,0 +1,222 @@
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.exe
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.deps.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.runtimeconfig.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.runtimeconfig.dev.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.pdb
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.pdb
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.pdb
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.csprojAssemblyReference.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.csproj.CoreCompileInputs.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.AssemblyInfoInputs.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.AssemblyInfo.cs
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.RazorTargetAssemblyInfo.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.csproj.CopyComplete
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\staticwebassets\NovasSolucoesServer.Api.StaticWebAssets.Manifest.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\staticwebassets\NovasSolucoesServer.Api.StaticWebAssets.xml
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.pdb
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.genruntimeconfig.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.exe
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.deps.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.runtimeconfig.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.runtimeconfig.dev.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Api.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.csprojAssemblyReference.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.csproj.CoreCompileInputs.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.AssemblyInfoInputs.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.AssemblyInfo.cs
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.RazorTargetAssemblyInfo.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.csproj.CopyComplete
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\staticwebassets\NovasSolucoesServer.Api.StaticWebAssets.Manifest.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\staticwebassets\NovasSolucoesServer.Api.StaticWebAssets.xml
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Api\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Api.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.deps.json
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.pdb
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.pdb
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.csprojAssemblyReference.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.csproj.CoreCompileInputs.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.AssemblyInfoInputs.cache
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.AssemblyInfo.cs
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.csproj.CopyComplete
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.dll
+C:\CustomizacaoRM\Sebrae\Utilitarios\Estudo de OAuth e OpenID\Validacao Simples\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.deps.json
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\bin\Debug\netcoreapp3.1\NovasSolucoesServer.Dominio.pdb
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.csprojAssemblyReference.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.csproj.CoreCompileInputs.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.AssemblyInfoInputs.cache
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.AssemblyInfo.cs
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.csproj.CopyComplete
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.dll
+C:\Users\fabio.paula\Documents\workspace\Auth\src\NovasSolucoesServer.Infra\obj\Debug\netcoreapp3.1\NovasSolucoesServer.Infra.pdb

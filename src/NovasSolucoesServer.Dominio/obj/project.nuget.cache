@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4L+SHaJ3PJmCq+b2moqp0G56jcr0k7iwSWT8HmphXnrKritzkXNB3f4HbJYo0UcPjxMklYD8Uk9ph5/MUvA04g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio.paula\\Documents\\workspace\\Auth\\src\\NovasSolucoesServer.Dominio\\NovasSolucoesServer.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.paula\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

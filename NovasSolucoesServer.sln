@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Cliente", "1 - Cliente", "{E346B4C6-E57C-41D7-920E-2C0ADB169A58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Api", "2 - Api", "{02236426-D76C-4CD6-9FDC-5DD7D47E1B45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{06C7F32B-8EED-45CB-8CE9-EE21CEB55018}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{82E8E9DC-F555-4FF1-943D-2998B129C40B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Testes", "5 - Testes", "{7C612400-CC66-49E1-9F11-F6218DE7EF30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovasSolucoesServer.Dominio", "src\NovasSolucoesServer.Dominio\NovasSolucoesServer.Dominio.csproj", "{AC5881A9-39CA-4D19-86AE-8575C1F55672}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovasSolucoesServer.Infra", "src\NovasSolucoesServer.Infra\NovasSolucoesServer.Infra.csproj", "{EE093993-4B0F-4642-B9AF-FA38E20AE0AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovasSolucoesServer.Api", "src\NovasSolucoesServer.Api\NovasSolucoesServer.Api.csproj", "{4E036836-375F-4AF5-B1F8-054E6EC31EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5881A9-39CA-4D19-86AE-8575C1F55672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5881A9-39CA-4D19-86AE-8575C1F55672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5881A9-39CA-4D19-86AE-8575C1F55672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5881A9-39CA-4D19-86AE-8575C1F55672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE093993-4B0F-4642-B9AF-FA38E20AE0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE093993-4B0F-4642-B9AF-FA38E20AE0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE093993-4B0F-4642-B9AF-FA38E20AE0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE093993-4B0F-4642-B9AF-FA38E20AE0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E036836-375F-4AF5-B1F8-054E6EC31EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E036836-375F-4AF5-B1F8-054E6EC31EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E036836-375F-4AF5-B1F8-054E6EC31EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E036836-375F-4AF5-B1F8-054E6EC31EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC5881A9-39CA-4D19-86AE-8575C1F55672} = {06C7F32B-8EED-45CB-8CE9-EE21CEB55018}
+		{EE093993-4B0F-4642-B9AF-FA38E20AE0AA} = {82E8E9DC-F555-4FF1-943D-2998B129C40B}
+		{4E036836-375F-4AF5-B1F8-054E6EC31EF0} = {02236426-D76C-4CD6-9FDC-5DD7D47E1B45}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E49191C8-71C6-46CA-AF1F-29727FA8FD72}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs2015.totvs.com.br/tfs/cd-bh
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NovasSolucoesServer.Dominio\\NovasSolucoesServer.Dominio.csproj
+		SccProjectTopLevelParentUniqueName1 = NovasSolucoesServer.sln
+		SccProjectName1 = NovasSolucoesServer.Dominio
+		SccLocalPath1 = NovasSolucoesServer.Dominio
+		SccProjectUniqueName2 = NovasSolucoesServer.Infra\\NovasSolucoesServer.Infra.csproj
+		SccProjectTopLevelParentUniqueName2 = NovasSolucoesServer.sln
+		SccProjectName2 = NovasSolucoesServer.Infra
+		SccLocalPath2 = NovasSolucoesServer.Infra
+		SccProjectUniqueName3 = NovasSolucoesServer.Api\\NovasSolucoesServer.Api.csproj
+		SccProjectTopLevelParentUniqueName3 = NovasSolucoesServer.sln
+		SccProjectName3 = NovasSolucoesServer.Api
+		SccLocalPath3 = NovasSolucoesServer.Api
+	EndGlobalSection
+EndGlobal
